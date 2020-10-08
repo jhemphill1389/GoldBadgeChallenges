@@ -1,0 +1,6 @@
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\bin\Debug\MenuContentsREPO.dll
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\bin\Debug\MenuContentsREPO.pdb
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\obj\Debug\MenuContentsREPO.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\obj\Debug\MenuContentsREPO.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\obj\Debug\MenuContentsREPO.dll
+C:\Users\JaH\source\repos\ChallengeApp\MenuContentsREPO\obj\Debug\MenuContentsREPO.pdb
