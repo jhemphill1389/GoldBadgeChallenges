@@ -1,0 +1,10 @@
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\obj\Debug\_02_ClaimsConsole.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\obj\Debug\_02_ClaimsConsole.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\bin\Debug\_02_ClaimsConsole.exe.config
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\bin\Debug\_02_ClaimsConsole.exe
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\bin\Debug\_02_ClaimsConsole.pdb
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\bin\Debug\ClassLibrary1.dll
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\bin\Debug\ClassLibrary1.pdb
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\obj\Debug\_02_ClaimsConsole.csproj.CopyComplete
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\obj\Debug\_02_ClaimsConsole.exe
+C:\Users\JaH\source\repos\_02_ClaimsConsole\_02_ClaimsConsole\obj\Debug\_02_ClaimsConsole.pdb

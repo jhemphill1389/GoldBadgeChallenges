@@ -1,0 +1,6 @@
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\obj\Debug\_02_ClaimsRepo.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\obj\Debug\_02_ClaimsRepo.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JaH\source\repos\_02_ClaimsConsole\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
